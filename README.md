@@ -5,11 +5,11 @@ This respository contains the foundation of a basic website built using HTML and
 
 ## 📄Files in This Project
 
--'index.html' - Homepage of the website 
--'about.html' - About section
--'links.html' - A page with external or internal links
--'lists.html' - A page demonstrating HTML lists
--'style.css' -  The stylesheet that controls the design of all pages
+'index.html' - Homepage of the website 
+'about.html' - About section
+'links.html' - A page with external or internal links
+'lists.html' - A page demonstrating HTML lists
+'style.css' -  The stylesheet that controls the design of all pages
 
 ## 💡 Purpose 
 
