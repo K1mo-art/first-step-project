@@ -15,7 +15,7 @@ This respository contains the foundation of a basic website built using HTML and
 
 This project is part of my learning journey in front-end development. I created this to:
 
--Practice basic HTML structure
+- Practice basic HTML structure
 - Explore CSS styling 
 - Understand how multi-page websites work
 
